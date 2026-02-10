@@ -1,19 +1,28 @@
 {
+<<<<<<< HEAD
   "homepage":"https://Saisree.github.io/Random-Joke-Generator",
+=======
+>>>>>>> 768140054a84dc43f52be21cb19109bf05247adc
   "name": "project1",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+<<<<<<< HEAD
     "predeploy": "npm run build",
     "deploy":"gh-pages -d dist",
+=======
+>>>>>>> 768140054a84dc43f52be21cb19109bf05247adc
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
     "gh-pages": "^6.3.0",
+=======
+>>>>>>> 768140054a84dc43f52be21cb19109bf05247adc
     "react": "^19.2.0",
     "react-dom": "^19.2.0"
   },
